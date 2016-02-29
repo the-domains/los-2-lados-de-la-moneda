@@ -1,4 +1,4 @@
-name: Los 2 Lados de la Moneda
+name: Los 2 Lados del Billete
 favicon: null
 layout_spectrum: 0.837489154888317
 typography_spectrum: 0.48164863628335297
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.3084156676195562
-  lightness: 0.7220020084641874
-  saturation: 0.194222129881382
-  rhythmicContrast: 0.0713184759952128
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
