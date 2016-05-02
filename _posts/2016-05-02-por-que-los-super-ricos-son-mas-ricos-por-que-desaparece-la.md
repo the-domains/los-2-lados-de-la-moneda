@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Por qué los súper ricos son más ricos, por qué desaparece la clase media, y por qué hay más pobres y estos se vuelven más pobres aun.'
-datePublished: '2016-05-02T15:01:07.269Z'
-dateModified: '2016-05-02T15:00:54.628Z'
+datePublished: '2016-05-02T21:25:28.282Z'
+dateModified: '2016-05-02T18:59:52.451Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-02-por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-02-por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la.md
-published: true
 url: por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la/index.html
 _type: Article
 
