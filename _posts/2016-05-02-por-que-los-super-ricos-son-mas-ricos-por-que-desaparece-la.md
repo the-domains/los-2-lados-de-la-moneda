@@ -4,24 +4,24 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Por qué los súper ricos son más ricos, por qué desaparece la clase media, y por qué hay más pobres y estos se vuelven más pobres aun.'
-datePublished: '2016-05-02T21:25:28.282Z'
-dateModified: '2016-05-02T18:59:52.451Z'
+description: >-
+  Por qué los súper ricos son más ricos, por qué desaparece la clase media, y
+  por qué hay más pobres y estos se vuelven más pobres aun.
+datePublished: '2016-06-12T18:18:38.721Z'
+dateModified: '2016-06-12T18:18:26.461Z'
 title: ''
 author: []
-sourcePath: _posts/2016-05-02-por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la.md
-published: true
+sourcePath: >-
+  _posts/2016-05-02-por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
 starred: false
 url: por-que-los-super-ricos-son-mas-ricos-por-que-desaparece-la/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/762304e7-9f25-41d2-bc4e-2d504bf0078e.jpg)
+
 Por qué los súper ricos son más ricos, por qué desaparece la clase media, y por qué hay más pobres y estos se vuelven más pobres aun.
 
 La gran mayoría de nosotros no tuvo educación financiera ni en casa, ni en la escuela, ni en la religión. Es común que la gran gran mayoría no sabe la historia de las monedas y los billetes, tampoco sabe qué son los bancos centrales y federales, pues menos quienes son sus dueños y qué hacen. Aparte, muchos de nosotros somos dados a gastar y gastar porque ahora somos consumidores adictos, ya que gastamos y compramos para ser mejor aceptados, sentir mayor placer, sobre salir a los demás y ejercer algún poder sobre ciertas personas. 
